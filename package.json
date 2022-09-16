@@ -6,8 +6,16 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/papatel48/HelloWorld1.git"
+  },
   "author": "Pranav Patel",
   "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/papatel48/HelloWorld1/issues"
+  },
+  "homepage": "https://github.com/papatel48/HelloWorld1#readme",
   "dependencies": {
     "express": "^4.18.1"
   }
